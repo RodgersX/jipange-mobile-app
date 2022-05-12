@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372402209174",
+    "firebase_url": "https://jipange-backend-server-default-rtdb.firebaseio.com",
+    "project_id": "jipange-backend-server",
+    "storage_bucket": "jipange-backend-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372402209174:android:0e55947afdb600f4aa9db7",
+        "android_client_info": {
+          "package_name": "com.eadh.jipangeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372402209174-1dn1157enfh6qv8juo2nfq4rnoka3skt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMka0EkOQkEUwnLFceuPPUSr4FHpbyMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372402209174-1dn1157enfh6qv8juo2nfq4rnoka3skt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
